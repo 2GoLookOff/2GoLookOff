@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @2GoLookOff
 - 👀 I’m interested in playing Dota 2 and and improvinh the world.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning write on JavaSccript)))0
+- 💞️ I’m looking to collaborate on web program
+- 📫 How to reach me 2GoLookOff in any social network
+- 😄 Pronouns: Dota 2, beer
 - ⚡ Fun fact: if you're a beer drinker, we're on our way! 
 
 <!---
